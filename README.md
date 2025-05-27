@@ -27,7 +27,8 @@
 ## Ссылка на дашборд (только для просмотра)
 
 > [Смотреть дашборд в Yandex DataLens]
-https://yandex.ru/search/?text=%D1%81%D0%B0%D0%B9%D1%82+%D0%BA%D0%B0%D0%B3%D0%BB&clid=2270455&banerid=6301000000%3A6427e7d089b36734529ae307&win=587&lr=118936
+
+https://datalens.yandex/hyw15efomnye3
 
 ## Лицензия
 
