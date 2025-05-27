@@ -26,7 +26,7 @@
 
 ## Ссылка на дашборд (только для просмотра)
 
-> [Смотреть дашборд в Yandex DataLens]([https://datalens.yandex.ru/profile/твой-линк-здесь](https://datalens.yandex/hyw15efomnye3))
+> [Смотреть дашборд в Yandex DataLens]([https://datalens.yandex/hyw15efomnye3])
 
 ## Лицензия
 
